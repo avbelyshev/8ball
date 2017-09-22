@@ -4,4 +4,4 @@
 
 [Ссылка на описание игрушки](https://ru.wikipedia.org/wiki/Magic_8_ball).
 
-Запускаем из терминала - '\dir>ruby 8ball.rb'
+Запускаем из терминала - \dir>`ruby 8ball.rb`
